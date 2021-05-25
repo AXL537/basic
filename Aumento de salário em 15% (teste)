@@ -1,0 +1,6 @@
+salario = float(input ("qual é o salario do funcionario? R$"))
+a = salario + (salario * 15 / 100)
+print (">>> {}  ".format(a))
+
+
+
